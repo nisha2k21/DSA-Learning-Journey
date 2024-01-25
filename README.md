@@ -2,7 +2,7 @@
 
 Welcome to my Data Structures and Algorithms (DSA) Learning Journey repository! 🚀 Here, I document my progress as I dive into the world of DSA, sharing code solutions, problem-solving approaches, and learning resources.
 
-## Repository Structure
+## Repository Structure 
 
 - **Topics:** Folder containing different DSA topics with code solutions.
   - **Arrays:** Code for array-related problems.
