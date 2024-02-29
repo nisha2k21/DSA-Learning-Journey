@@ -15,7 +15,7 @@ Welcome to my Data Structures and Algorithms (DSA) Learning Journey repository! 
   - [Divide and Conquer](Problem-Approaches/Divide-and-Conquer.md):  Explanation of the Divide and Conquer approach.           
 
 - **Resources:** Folder with learning resources.
-  - [Books](Resources/Books.md): List of recommended DSA books.
+  - [Books](Resources/Books.md): List of recommended DSA books. 
   - [Websites](Resources/Websites.md): Useful websites for DSA.
   - [Courses](Resources/Courses.md): Online courses for DSA.
 
