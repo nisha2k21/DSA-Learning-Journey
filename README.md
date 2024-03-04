@@ -13,7 +13,7 @@ Welcome to my Data Structures and Algorithms (DSA) Learning Journey repository! 
 - **Problem-Approaches:** Folder with general problem-solving approaches. 
   - [Sliding Window](Problem-Approaches/Sliding-Window.md): Explanation of the Sliding Window approach.  
   - [Divide and Conquer](Problem-Approaches/Divide-and-Conquer.md):  Explanation of the Divide and Conquer approach.            
-
+  
 - **Resources:** Folder with learning resources.
   - [Books](Resources/Books.md): List of recommended DSA books. 
   - [Websites](Resources/Websites.md): Useful websites for DSA.
